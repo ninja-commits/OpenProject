@@ -1,0 +1,11 @@
+c:\users\brian\source\repos\testbidon\testbidon\bin\Debug\netcoreapp2.0\testbidon.deps.json
+c:\users\brian\source\repos\testbidon\testbidon\bin\Debug\netcoreapp2.0\testbidon.runtimeconfig.json
+c:\users\brian\source\repos\testbidon\testbidon\bin\Debug\netcoreapp2.0\testbidon.runtimeconfig.dev.json
+c:\users\brian\source\repos\testbidon\testbidon\bin\Debug\netcoreapp2.0\testbidon.dll
+c:\users\brian\source\repos\testbidon\testbidon\bin\Debug\netcoreapp2.0\testbidon.pdb
+c:\users\brian\source\repos\testbidon\testbidon\obj\Debug\netcoreapp2.0\testbidon.csprojResolveAssemblyReference.cache
+c:\users\brian\source\repos\testbidon\testbidon\obj\Debug\netcoreapp2.0\testbidon.csproj.CoreCompileInputs.cache
+c:\users\brian\source\repos\testbidon\testbidon\obj\Debug\netcoreapp2.0\testbidon.AssemblyInfoInputs.cache
+c:\users\brian\source\repos\testbidon\testbidon\obj\Debug\netcoreapp2.0\testbidon.AssemblyInfo.cs
+c:\users\brian\source\repos\testbidon\testbidon\obj\Debug\netcoreapp2.0\testbidon.dll
+c:\users\brian\source\repos\testbidon\testbidon\obj\Debug\netcoreapp2.0\testbidon.pdb

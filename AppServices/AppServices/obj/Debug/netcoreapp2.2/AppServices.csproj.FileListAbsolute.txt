@@ -1,0 +1,13 @@
+C:\Users\BRIAN\source\repos\AppServices\AppServices\bin\Debug\netcoreapp2.2\AppServices.deps.json
+C:\Users\BRIAN\source\repos\AppServices\AppServices\bin\Debug\netcoreapp2.2\AppServices.runtimeconfig.json
+C:\Users\BRIAN\source\repos\AppServices\AppServices\bin\Debug\netcoreapp2.2\AppServices.runtimeconfig.dev.json
+C:\Users\BRIAN\source\repos\AppServices\AppServices\bin\Debug\netcoreapp2.2\AppServices.dll
+C:\Users\BRIAN\source\repos\AppServices\AppServices\bin\Debug\netcoreapp2.2\AppServices.pdb
+C:\Users\BRIAN\source\repos\AppServices\AppServices\obj\Debug\netcoreapp2.2\AppServices.csproj.CoreCompileInputs.cache
+C:\Users\BRIAN\source\repos\AppServices\AppServices\obj\Debug\netcoreapp2.2\AppServices.RazorAssemblyInfo.cache
+C:\Users\BRIAN\source\repos\AppServices\AppServices\obj\Debug\netcoreapp2.2\AppServices.RazorAssemblyInfo.cs
+C:\Users\BRIAN\source\repos\AppServices\AppServices\obj\Debug\netcoreapp2.2\AppServices.AssemblyInfoInputs.cache
+C:\Users\BRIAN\source\repos\AppServices\AppServices\obj\Debug\netcoreapp2.2\AppServices.AssemblyInfo.cs
+C:\Users\BRIAN\source\repos\AppServices\AppServices\obj\Debug\netcoreapp2.2\AppServices.RazorTargetAssemblyInfo.cache
+C:\Users\BRIAN\source\repos\AppServices\AppServices\obj\Debug\netcoreapp2.2\AppServices.dll
+C:\Users\BRIAN\source\repos\AppServices\AppServices\obj\Debug\netcoreapp2.2\AppServices.pdb

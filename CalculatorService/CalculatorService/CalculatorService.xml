@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>CalculatorService</name>
+    </assembly>
+    <members>
+        <member name="T:CalculatorService.Controllers.ValuesController">
+            <summary>
+            Main Values Controller
+            </summary>
+        </member>
+        <member name="M:CalculatorService.Controllers.ValuesController.Calculate(System.Int32,System.Int32)">
+            <summary>
+            Compute the result of a + b
+            </summary>
+            <param name="a"></param>
+            <param name="b"></param>
+            <returns>a + b</returns>
+        </member>
+        <member name="M:CalculatorService.Controllers.ValuesController.Multipl(System.Int32,System.Int32)">
+            <summary>
+            multiply a by b
+            </summary>
+            <param name="a"></param>
+            <param name="b"></param>
+            <returns></returns>
+        </member>
+        <member name="M:CalculatorService.Controllers.ValuesController.Get">
+            <summary>
+            Get Values
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

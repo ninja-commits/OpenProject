@@ -1,0 +1,11 @@
+c:\users\brian\source\repos\RektTest\RektTest\bin\Debug\netcoreapp2.0\RektTest.deps.json
+c:\users\brian\source\repos\RektTest\RektTest\bin\Debug\netcoreapp2.0\RektTest.runtimeconfig.json
+c:\users\brian\source\repos\RektTest\RektTest\bin\Debug\netcoreapp2.0\RektTest.runtimeconfig.dev.json
+c:\users\brian\source\repos\RektTest\RektTest\bin\Debug\netcoreapp2.0\RektTest.dll
+c:\users\brian\source\repos\RektTest\RektTest\bin\Debug\netcoreapp2.0\RektTest.pdb
+c:\users\brian\source\repos\RektTest\RektTest\obj\Debug\netcoreapp2.0\RektTest.csprojResolveAssemblyReference.cache
+c:\users\brian\source\repos\RektTest\RektTest\obj\Debug\netcoreapp2.0\RektTest.csproj.CoreCompileInputs.cache
+c:\users\brian\source\repos\RektTest\RektTest\obj\Debug\netcoreapp2.0\RektTest.AssemblyInfoInputs.cache
+c:\users\brian\source\repos\RektTest\RektTest\obj\Debug\netcoreapp2.0\RektTest.AssemblyInfo.cs
+c:\users\brian\source\repos\RektTest\RektTest\obj\Debug\netcoreapp2.0\RektTest.dll
+c:\users\brian\source\repos\RektTest\RektTest\obj\Debug\netcoreapp2.0\RektTest.pdb

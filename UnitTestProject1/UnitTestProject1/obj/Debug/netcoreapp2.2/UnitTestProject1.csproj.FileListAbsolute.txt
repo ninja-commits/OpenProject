@@ -1,0 +1,14 @@
+C:\Users\BRIAN\source\repos\UnitTestProject1\UnitTestProject1\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\BRIAN\source\repos\UnitTestProject1\UnitTestProject1\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\BRIAN\source\repos\UnitTestProject1\UnitTestProject1\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\BRIAN\source\repos\UnitTestProject1\UnitTestProject1\bin\Debug\netcoreapp2.2\UnitTestProject1.deps.json
+C:\Users\BRIAN\source\repos\UnitTestProject1\UnitTestProject1\bin\Debug\netcoreapp2.2\UnitTestProject1.runtimeconfig.json
+C:\Users\BRIAN\source\repos\UnitTestProject1\UnitTestProject1\bin\Debug\netcoreapp2.2\UnitTestProject1.runtimeconfig.dev.json
+C:\Users\BRIAN\source\repos\UnitTestProject1\UnitTestProject1\bin\Debug\netcoreapp2.2\UnitTestProject1.dll
+C:\Users\BRIAN\source\repos\UnitTestProject1\UnitTestProject1\bin\Debug\netcoreapp2.2\UnitTestProject1.pdb
+C:\Users\BRIAN\source\repos\UnitTestProject1\UnitTestProject1\obj\Debug\netcoreapp2.2\UnitTestProject1.csprojAssemblyReference.cache
+C:\Users\BRIAN\source\repos\UnitTestProject1\UnitTestProject1\obj\Debug\netcoreapp2.2\UnitTestProject1.csproj.CoreCompileInputs.cache
+C:\Users\BRIAN\source\repos\UnitTestProject1\UnitTestProject1\obj\Debug\netcoreapp2.2\UnitTestProject1.AssemblyInfoInputs.cache
+C:\Users\BRIAN\source\repos\UnitTestProject1\UnitTestProject1\obj\Debug\netcoreapp2.2\UnitTestProject1.AssemblyInfo.cs
+C:\Users\BRIAN\source\repos\UnitTestProject1\UnitTestProject1\obj\Debug\netcoreapp2.2\UnitTestProject1.dll
+C:\Users\BRIAN\source\repos\UnitTestProject1\UnitTestProject1\obj\Debug\netcoreapp2.2\UnitTestProject1.pdb
