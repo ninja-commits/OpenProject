@@ -9,3 +9,15 @@ C:\Users\BRIAN\source\repos\EFCORE\EFCORE\obj\Debug\netcoreapp2.2\EFCORE.Assembl
 C:\Users\BRIAN\source\repos\EFCORE\EFCORE\bin\Debug\netcoreapp2.2\EFCORE.pdb
 C:\Users\BRIAN\source\repos\EFCORE\EFCORE\obj\Debug\netcoreapp2.2\EFCORE.dll
 C:\Users\BRIAN\source\repos\EFCORE\EFCORE\obj\Debug\netcoreapp2.2\EFCORE.pdb
+C:\Users\brian\Documents\OpenProject\EFCORE\EFCORE\bin\Debug\netcoreapp2.2\EFCORE.deps.json
+C:\Users\brian\Documents\OpenProject\EFCORE\EFCORE\bin\Debug\netcoreapp2.2\EFCORE.runtimeconfig.json
+C:\Users\brian\Documents\OpenProject\EFCORE\EFCORE\bin\Debug\netcoreapp2.2\EFCORE.runtimeconfig.dev.json
+C:\Users\brian\Documents\OpenProject\EFCORE\EFCORE\bin\Debug\netcoreapp2.2\EFCORE.dll
+C:\Users\brian\Documents\OpenProject\EFCORE\EFCORE\bin\Debug\netcoreapp2.2\EFCORE.pdb
+C:\Users\brian\Documents\OpenProject\EFCORE\EFCORE\obj\Debug\netcoreapp2.2\EFCORE.csprojAssemblyReference.cache
+C:\Users\brian\Documents\OpenProject\EFCORE\EFCORE\obj\Debug\netcoreapp2.2\EFCORE.csproj.CoreCompileInputs.cache
+C:\Users\brian\Documents\OpenProject\EFCORE\EFCORE\obj\Debug\netcoreapp2.2\EFCORE.AssemblyInfoInputs.cache
+C:\Users\brian\Documents\OpenProject\EFCORE\EFCORE\obj\Debug\netcoreapp2.2\EFCORE.AssemblyInfo.cs
+C:\Users\brian\Documents\OpenProject\EFCORE\EFCORE\obj\Debug\netcoreapp2.2\EFCORE.dll
+C:\Users\brian\Documents\OpenProject\EFCORE\EFCORE\obj\Debug\netcoreapp2.2\EFCORE.pdb
+C:\Users\brian\Documents\OpenProject\EFCORE\EFCORE\obj\Debug\netcoreapp2.2\EFCORE.genruntimeconfig.cache
